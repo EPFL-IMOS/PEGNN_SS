@@ -1,7 +1,7 @@
 # Physics-Enhanced Graph Neural Networks For Soft Sensing in Industrial Internet of Things
 
 This paper has been officially accepted for publication in the **IEEE Internet of Things Journal**.
-
+https://ieeexplore.ieee.org/document/10638707
 ___
 
 **Abstract:** 
@@ -20,3 +20,19 @@ ___
 
 ## Getting Started:
 You just need to run `main.ipynb` to reproduce the result.
+
+
+## Citing our paper
+
+If this work was useful to you, please cite our paper:
+
+```BibTeX
+@ARTICLE{niresi_pegnn,
+  author={Niresi, Keivan Faghih and Bissig, Hugo and Baumann, Henri and Fink, Olga},
+  journal={IEEE Internet of Things Journal}, 
+  title={Physics-Enhanced Graph Neural Networks For Soft Sensing in Industrial Internet of Things}, 
+  year={2024},
+  volume={},
+  number={},
+  doi={10.1109/JIOT.2024.3434732}}
+```
